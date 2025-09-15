@@ -50,7 +50,7 @@ withstand
 
 ### 🚀 Tech Stack  
 
-#### 🖥️ Languages  
+<h3 align="center">🖥️ Languages</h3> 
 <p align="center">
   <!-- Languages -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,7 +60,8 @@ withstand
 </p>
 
 
-#### 🤖 ML / DL  
+
+<h3 align="center">🤖 ML / DL</h3>
 <p align="center">
   <!-- ML / DL -->
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -69,7 +70,7 @@ withstand
   <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-#### 🌐 Web Development 
+<h3 align="center">🌐 Web Development</h3>
 <p align="center">
   <!-- Web -->
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -81,7 +82,7 @@ withstand
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-#### ⚙️ Tools & Platforms
+<h3 align="center">⚙️ Tools & Platforms</h3>
 <p align="center">
   <!-- Tools -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
