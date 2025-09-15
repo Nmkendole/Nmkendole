@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="left">👋 Hi there,</strong></h1>
+<h1 align="left">👋 Hi there, I am </strong></h1>
 
 <!-- Banner (replace with your own banner in ./assets/banner.png) -->
 <p align="center">
