@@ -3,7 +3,7 @@
 
 <!-- Banner (replace with your own banner in ./assets/banner.png) -->
 <p align="center">
-  <img src="./assets/banner.png" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nagamahesh%20Kendole&fontSize=50&animation=fadeIn" />
 </p>
 
 <!-- Socials -->
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nagamaheshkendole@outlook.com">
-    <img src="assets/email" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
   <a href="https://github.com/Nmkendole">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -30,15 +30,15 @@
 
 - 🎓 B.E in Computer Science & Engineering (2022–2026)  
 - 💡 Passionate about solving real-world problems with tech  
-- 🌱 Currently learning **Development, LLM, and Deep Learning**  
+- 🌱 Currently learning CyberSecurity and Backend using Spring Frame  
 - 🎯 Goal: Building innovative solutions that make a positive impact  
-- ⚡ Fun fact: When I’m not coding, I enjoy sketching, trekking, biking, or diving into a good book  
+- ⚡ Fun fact: When I’m not coding, I enjoy trekking, biking, or playing badmintion and diving into a good book  
 
 > I’m a software engineer & full stack developer, exploring AI, ML, and web development to create meaningful solutions.
-
+<tr>
     </td>
     <td valign="top" width="35%">
-      <img src="./assets/me-illustration.png" alt="me" width="220" />
+      <img src="./assets/coding,gif" alt="me" width="220" />
     </td>
   </tr>
 </table>
