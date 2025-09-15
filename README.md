@@ -81,6 +81,28 @@ withstand
 
 ---
 
+## 🏆 Featured Projects  
+
+### 📘 InfoPulse  
+*A  interactive dashboard to check NEWS, CRYPTOCURRENCY & WEATHER*  
+
+**🔑 Key Features:**  
+- 📊 Dashboard analytics with real-time metrics  
+- ✅ Fetch Real-Time News, price of Cryptocurrency with AI powered analysis and Real Time Weather  
+- 🕒 Utilized NewsAPI, Chart.js, GeminiAPI & OpenWeatherMap API
+
+**🛠 Tech Stack:**  
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+
+🔗 **Live Demo:** [InfoPulse](https://infopulsencw.netlify.app/)  
+💻 **Repository:** [GitHub Repo](https://github.com/Nmkendole/InfoPulse)  
+
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nmkendole&show_icons=true&theme=dark" alt="GitHub stats"/>
