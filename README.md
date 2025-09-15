@@ -3,7 +3,7 @@
 
 <!-- Banner (replace with your own banner in ./assets/banner.png) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nagamahesh%20Kendole&fontSize=50&animation=fadeIn" />
+  <img src="https://images.unsplash.com/photo-1592906205641-7d3bd068f40d?format=auto" />
 </p>
 
 <!-- Socials -->
