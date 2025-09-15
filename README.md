@@ -3,7 +3,7 @@
 
 <!-- Banner (replace with your own banner in ./assets/banner.png) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Nagamahesh%20Kendole%20|%20Cybersecurity&fontSize=32&fontColor=00FF00&animation=fadeIn&fontAlign=50&desc=Securing%20Tomorrow's%20Technology&descAlign=50&descSize=16&descColor=00FF00" alt="Cybersecurity Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Nagamahesh%20Kendole%20|%20Cybersecurity&fontSize=34&fontColor=00E5FF&animation=twinkling&fontAlign=50&desc=Defending%20Digital%20Frontiers&descAlign=50&descSize=16&descColor=00E5FF" alt="Cybersecurity Banner"/>
 </p>
 
 <!-- Socials -->
