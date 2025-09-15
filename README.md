@@ -34,11 +34,14 @@
 - 🎯 Goal: Building innovative solutions that make a positive impact  
 - ⚡ Fun fact: When I’m not coding, I enjoy trekking, biking, or playing badmintion and diving into a good book  
 
-> I’m a software engineer & full stack developer, exploring AI, ML, and web development to create meaningful solutions.
+> I’m an aspirant in CyberSecurity and Backend Development with a strong foundation in building scalable, secure systems. Eager to leverage my coding expertise 
+and cybersecurity interest to design robust, high-performance applications that prioritize both functionality and defense against threats. 
+Thrives in challenging environments where clean code meets security best practices because great software shouldn’t just work; it should 
+withstand
 <tr>
     </td>
     <td valign="top" width="35%">
-      <img src="./assets/coding,gif" alt="me" width="220" />
+      <img src="./assets/coding.gif" alt="me" width="220" />
     </td>
   </tr>
 </table>
