@@ -3,7 +3,7 @@
 
 <!-- Banner (replace with your own banner in ./assets/banner.png) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1592906205641-7d3bd068f40d?format=auto" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=200&section=header&text=Nagamahesh%20Kendole%20|%20Cybersecurity&fontSize=35&fontColor=00FF00&animation=twinkling" />
 </p>
 
 <!-- Socials -->
