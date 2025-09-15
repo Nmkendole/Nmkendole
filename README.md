@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="left">👋 Hi there, I'm <strong>Nagamahesh Kendole</strong></h1>
+<h1 align="left">👋 Hi there,</strong></h1>
 
 <!-- Banner (replace with your own banner in ./assets/banner.png) -->
 <p align="center">
